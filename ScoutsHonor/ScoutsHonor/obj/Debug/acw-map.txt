@@ -1,0 +1,4 @@
+ScoutsHonor.MainActivity, ScoutsHonor;md558c90bbccddf198ce275898b1fed8628.MainActivity
+ScoutsHonor.MainActivity, ScoutsHonor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md558c90bbccddf198ce275898b1fed8628.MainActivity
+ScoutsHonor.MainActivity;md558c90bbccddf198ce275898b1fed8628.MainActivity
+scoutshonor.MainActivity;md558c90bbccddf198ce275898b1fed8628.MainActivity

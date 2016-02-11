@@ -13,3 +13,6 @@ c:\users\crevo_programming 3\documents\visual studio 2015\Projects\ScoutsHonor\S
 c:\users\crevo_programming 3\documents\visual studio 2015\Projects\ScoutsHonor\ScoutsHonor\obj\Debug\uploadflags.txt
 c:\users\crevo_programming 3\documents\visual studio 2015\Projects\ScoutsHonor\ScoutsHonor\obj\Debug\ScoutsHonor.dll.mdb
 c:\users\crevo_programming 3\documents\visual studio 2015\Projects\ScoutsHonor\ScoutsHonor\bin\Debug\ScoutsHonor.dll.mdb
+C:\Users\jason_hcyhirj\Documents\Visual Studio 2015\Projects\ScoutsHonor\ScoutsHonor\ScoutsHonor\obj\Debug\ScoutsHonor.csprojResolveAssemblyReference.cache
+C:\Users\jason_hcyhirj\Documents\Visual Studio 2015\Projects\ScoutsHonor\ScoutsHonor\ScoutsHonor\obj\Debug\ScoutsHonor.dll
+C:\Users\jason_hcyhirj\Documents\Visual Studio 2015\Projects\ScoutsHonor\ScoutsHonor\ScoutsHonor\obj\Debug\ScoutsHonor.pdb

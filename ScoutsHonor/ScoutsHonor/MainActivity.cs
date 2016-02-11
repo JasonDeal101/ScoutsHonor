@@ -1,30 +1,24 @@
-﻿using System;
+﻿/*
+    Author: Jason Deal
+    Team: Crevolution
+    Team Number: 2851
+    Date Initialized: 2/10/2016
+    Github Repository: https://github.com/JasonDeal101/ScoutsHonor/
+*/
 using Android.App;
-using Android.Content;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
 using Android.OS;
 
 namespace ScoutsHonor
 {
-    [Activity(Label = "ScoutsHonor", MainLauncher = true, Icon = "@drawable/icon")]
+    //Joe-Rock Android Tutorials Sliding Tab Interface
+    [Activity(Label = "ScoutsHonor", MainLauncher = true, Icon = "@drawable/Icon")]
     public class MainActivity : Activity
     {
-        int count = 1;
 
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-
-            // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-
-            // Get our button from the layout resource,
-            // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.MyButton);
-
-            button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
         }
     }
 }
